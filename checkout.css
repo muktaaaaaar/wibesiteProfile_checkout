@@ -1,0 +1,30 @@
+.nav {
+    background-color: azure; height: 50px; display: flex;
+}
+.ul1 {
+    display: flex; list-style: none;
+}
+.li {
+    margin-right: 10px;
+}
+.li1 {
+    margin-right:10px; margin-left: auto;
+}
+.p {
+    font-weight: bold; size: 14px;
+}
+.div {
+    display: flex; justify-content: space-between; align-items: center; width: 95%;
+}
+.td {
+    font-weight: bold
+}
+.td1 {
+    color: dodgerblue;
+}
+.ul2 {
+    display: flex; list-style: none;
+}
+.li2 {
+    margin-left: 10px;
+}
