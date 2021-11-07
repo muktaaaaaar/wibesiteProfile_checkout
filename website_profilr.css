@@ -28,7 +28,7 @@
 }
 
 .fiel {
-    width: 200px;
+    width:200px;
     height: 200px;
 }
 .div7 {
@@ -38,4 +38,8 @@
     width: 90px;
     height: 90px;
     border: 1px solid
+}
+#proil {
+    font-size: 30px;
+    text-align: center;
 }
